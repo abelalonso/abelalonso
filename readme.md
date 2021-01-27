@@ -13,6 +13,8 @@ Este es mi perfil de Github, donde guardo mis proyectos, código de cursos y otr
 **- Curso GraphQL**
   - [Introducción](https://github.com/curso-graphQL/1-Introduccion)
   - [Hola Mundo en GraphQL](https://github.com/curso-graphQL/2-hola-mundo-graphql)
+  - [Academia Online](https://github.com/curso-graphQL/2-academia-online)
+
 
 **- Curso Serverless, Lambdas y ApiGateway**
   - [Hola Mundo](https://github.com/curso-serverless-lambda-APIGateway/hola-mundo)
@@ -28,7 +30,7 @@ Este es mi perfil de Github, donde guardo mis proyectos, código de cursos y otr
   - [Air boat and party](https://github.com/abelalonso/airBoatAndParty) : Aplicación de alquiler de yates.
 
 
-## **Tech Stack:**
+## **Stack:**
 
 ### Back end
 <img title="Python" height="60" src="./images/python.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -36,6 +38,8 @@ Este es mi perfil de Github, donde guardo mis proyectos, código de cursos y otr
 <img title="Django" height="60" src="./images/django-icon.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <img title="Node" height="60" src="./images/nodejs-icon.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <img title="Express" height="60" src="./images/express.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+
+<br>
 
 ### Front end
 <img title="HTML 5" height="60" src="./images/html-5.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -46,14 +50,20 @@ Este es mi perfil de Github, donde guardo mis proyectos, código de cursos y otr
 <img title="React" height="60" src="./images/react.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <img title="Vue" height="60" src="./images/vue.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
+<br>
+
 ### BBDD
 <img title="MySQL" height="60" src="./images/mysql.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <img title="MongoDB" height="60" src="./images/mongodb.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <img title="PostgreSQL" height="60" src="./images/postgresql.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
+<br>
+
 ### Cloud
 <img title="AWS" height="60" src="./images/aws.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <img title="Azure" height="60" src="./images/azure-icon.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+
+<br>
 
 ### Herramientas de desarrollo
 <img title="Visual Studio Code" height="60" src="./images/vsc.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -70,7 +80,8 @@ Este es mi perfil de Github, donde guardo mis proyectos, código de cursos y otr
 <br>
 <br>
 <br>
-### Contactame!: <img src="https://www.animatedimages.org/data/media/325/animated-telephone-image-0081.gif" width="60px">
+
+### Contáctame!: <img src="https://www.animatedimages.org/data/media/325/animated-telephone-image-0081.gif" width="60px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Abel_Alonso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/abel-alonso/)](https://www.linkedin.com/in/abel-alonso/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
