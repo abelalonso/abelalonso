@@ -42,7 +42,10 @@ Este es mi perfil de Github, donde guardo mis proyectos, código de cursos y otr
 <br>
 
 ### Front end
-<img title="HTML 5" height="60" src="./images/html-5.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<a href="https://developer.mozilla.org/es/docs/HTML/HTML5">
+  <img title="HTML 5" height="60" src="./images/html-5.svg">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <img title="CSS 3" height="60" src="./images/css-3.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <img title="JavaScript" height="60" src="./images/javascript.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <img title="SASS" height="60" src="./images/sass.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
