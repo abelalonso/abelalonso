@@ -37,6 +37,7 @@ Este es mi perfil de Github, donde guardo mis proyectos, código de cursos y otr
 <img title="Flask" height="60" src="./images/flask.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <img title="Django" height="60" src="./images/django-icon.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <img title="Node" height="60" src="./images/nodejs-icon.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<img title="GraphQL" height="60" src="./images/graphql.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img title="Express" height="60" src="./images/express.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 <br>
