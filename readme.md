@@ -7,12 +7,13 @@ Este es mi perfil de Github, donde guardo mis proyectos, código de cursos y otr
 
 ## Mi código
 
-**- Curso Vue** (en curso)
+**- Curso Vue** <img title="In progress" height="20" style="position: relative; bottom: -5px" src="./images/inprogress.png">
   - [Primeros Pasos](https://github.com/Curso-VUE/1-primeros-pasos)
   - [Contador con Vuex](https://github.com/Curso-VUE/2-contador-vuex)
   - [Tienda con Vuex, bootstrap-vue y vue-pagination](https://github.com/Curso-VUE/3-vue-shop)
+  - [Lista de tareas: crud a json-server](https://github.com/Curso-VUE/4-vue-crud-todos)
 
-**- Curso GraphQL** (en curso)
+**- Curso GraphQL** <img title="In progress" height="20" style="position: relative; bottom: -5px" src="./images/inprogress.png">
   - [Introducción](https://github.com/curso-graphQL/1-Introduccion)
   - [Hola Mundo en GraphQL](https://github.com/curso-graphQL/2-hola-mundo-graphql)
   - [Academia Online](https://github.com/curso-graphQL/2-academia-online)
