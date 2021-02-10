@@ -16,7 +16,8 @@ Este es mi perfil de Github, donde guardo mis proyectos, código de cursos y otr
 **- Curso GraphQL** <img title="In progress" height="20" style="position: relative; bottom: -5px" src="./images/inprogress.png">
   - [Introducción](https://github.com/curso-graphQL/1-Introduccion)
   - [Hola Mundo en GraphQL](https://github.com/curso-graphQL/2-hola-mundo-graphql)
-  - [Academia Online](https://github.com/curso-graphQL/2-academia-online)
+  - [Academia Online](https://github.com/curso-graphQL/3-academia-online)
+  - [Consumir GraphQL con Postman](https://github.com/curso-graphQL/4-postman)
 
 
 **- Curso Serverless, Lambdas y ApiGateway**
