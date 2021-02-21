@@ -1,5 +1,5 @@
 <div style="width: 100%; display: flex; justify-content: space-around; margin-bottom: 20px">
-  <img title="data" width="800px" height="400px" src="./images/developer.jpg"> 
+  <img title="data" style="object-fit: cover; width: 100%; height: 400px" src="./images/developer.jpg"> 
 </div>
 
 # Hola Mundo! Bienvenido a mi perfil de Github
