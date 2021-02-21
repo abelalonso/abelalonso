@@ -7,6 +7,10 @@ Este es mi perfil de Github, donde guardo mis proyectos, código de cursos y otr
 
 ## Mi código
 
+**- Curso DevOps** <img title="In progress" height="20" style="position: relative; bottom: -5px" src="./images/inprogress.png">
+  - [Introduccion a DevOps](https://github.com/curso-devops/1-intro)
+  - [Docker](https://github.com/curso-devops/2-docker)
+
 **- Curso Vue** <img title="In progress" height="20" style="position: relative; bottom: -5px" src="./images/inprogress.png">
   - [Primeros Pasos](https://github.com/Curso-VUE/1-primeros-pasos)
   - [Contador con Vuex](https://github.com/Curso-VUE/2-contador-vuex)
