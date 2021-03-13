@@ -26,6 +26,9 @@ Este es mi perfil de Github, donde guardo mis proyectos, código de cursos y otr
   - [Consumir GraphQL con Postman](https://github.com/curso-graphQL/4-postman)
   - [API en GraphQL haciendo uso de una API REST de Fórmula 1 mediante Apollo Server](https://github.com/curso-graphQL/5-rest-to-graphql-api)
 
+**- Bot de telegram**
+  - [Sencillo bot de telegram alojado en AWS que repite lo que le escribes](https://github.com/abelalonso/telegram-bot)
+
 **- Curso Serverless, Lambdas y ApiGateway**
   - [Hola Mundo](https://github.com/curso-serverless-lambda-APIGateway/hola-mundo)
   - [Validación de password](https://github.com/curso-serverless-lambda-APIGateway/password-strength)
